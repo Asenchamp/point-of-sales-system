@@ -1,4 +1,4 @@
-
+the system does it all frm registering users, tracking sales and debts to weekly reports of the transactions and also receipting and invoicing
 
 
 ![Screenshot 2024-07-31 212553](https://github.com/user-attachments/assets/42aade9d-6979-4008-a6a9-ee1d986cb087)
